@@ -20,6 +20,15 @@ With Mask: 2165
 
 Without Mask: 1930
 
+**Technology Used:**
+
+1. Deep Learning
+2. CNN
+3. Tkinter
+4. Jupyter
+5. Opencv
+6. Python
+
 **Accuracy:**
 
 MobileNetV2: 99.19
